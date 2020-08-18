@@ -13,8 +13,8 @@
 
 ```shell
 # clone repo
-$ git clone https://github.com/zce/pages-boilerplate.git my-awesome-pages
-$ cd my-awesome-pages
+$ git clone https://github.com/TheWomanLiketheWind/gulpAutomate.git my-gulp-pages
+$ cd my-gulp-pages
 # install dependencies
 $ yarn # or npm install
 ```
@@ -118,10 +118,6 @@ Clean the `dist` & `temp` files.
    └─ yarn.lock ······································ yarn lock file
 ```
 
-## Related
-
-- [zce/x-pages](https://github.com/zce/x-pages) - A fully managed gulp workflow for static page sites.
-
 ## Contributing
 
 1. **Fork** it on GitHub!
@@ -132,11 +128,6 @@ Clean the `dist` & `temp` files.
 6. Submit a **Pull Request** so that we can review your changes.
 
 > **NOTE**: Be sure to merge the latest from "upstream" before making a pull request!
-
-## License
-
-[MIT](LICENSE) &copy; [汪磊](https://zce.me)
-
 
 
 [travis-image]: https://img.shields.io/travis/zce/pages-boilerplate/master.svg
